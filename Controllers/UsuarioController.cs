@@ -47,6 +47,7 @@ namespace EjercicioEndpoints.Controllers
             usuarioDato.EliminarUsuario(id);
             return "usuario eliminado";
         }
+<<<<<<< HEAD
 
 
         [HttpPost("login")]//cambiar codigo
@@ -59,5 +60,7 @@ namespace EjercicioEndpoints.Controllers
 
 
 
+=======
+>>>>>>> 5715bbedbc4be8d63f9f404ab4818a07a8ffcf48
     }
 }

@@ -61,6 +61,7 @@ C:\Users\Antonio\source\repos\EjercicioEndpoints\obj\Debug\net6.0\refint\Ejercic
 C:\Users\Antonio\source\repos\EjercicioEndpoints\obj\Debug\net6.0\EjercicioEndpoints.pdb
 C:\Users\Antonio\source\repos\EjercicioEndpoints\obj\Debug\net6.0\EjercicioEndpoints.genruntimeconfig.cache
 C:\Users\Antonio\source\repos\EjercicioEndpoints\obj\Debug\net6.0\ref\EjercicioEndpoints.dll
+<<<<<<< HEAD
 C:\Users\anton\source\repos\ejercicioEndpoints-master\bin\Debug\net6.0\appsettings.Development.json
 C:\Users\anton\source\repos\ejercicioEndpoints-master\bin\Debug\net6.0\appsettings.json
 C:\Users\anton\source\repos\ejercicioEndpoints-master\bin\Debug\net6.0\EjercicioEndpoints.exe
@@ -124,3 +125,5 @@ C:\Users\anton\source\repos\ejercicioEndpoints-master\obj\Debug\net6.0\refint\Ej
 C:\Users\anton\source\repos\ejercicioEndpoints-master\obj\Debug\net6.0\EjercicioEndpoints.pdb
 C:\Users\anton\source\repos\ejercicioEndpoints-master\obj\Debug\net6.0\EjercicioEndpoints.genruntimeconfig.cache
 C:\Users\anton\source\repos\ejercicioEndpoints-master\obj\Debug\net6.0\ref\EjercicioEndpoints.dll
+=======
+>>>>>>> 5715bbedbc4be8d63f9f404ab4818a07a8ffcf48
